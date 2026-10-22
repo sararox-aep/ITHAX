@@ -1,4 +1,5 @@
 # ITHAX
+
 # ITHAX - small cube that goes around collecting points which ultimatly do nothing
 
 score = 0
