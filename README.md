@@ -1,3 +1,5 @@
+# please click on edit to to see all the code or copy and paste into processing, on preview the text is formatting incorrectly and i could not figure out how to chnage it.
+
 # ITHAX
 
 # ITHAX - small cube that goes around collecting points which ultimatly do nothing
